@@ -1,4 +1,18 @@
 - 👋 Hi, I’m @Autumn-27
+- 
+🔗 **一些值得关注的仓库：**
+
+- **[ScopeSentry服务端源码](https://github.com/Autumn-27/ScopeSentry)**  
+  ScopeSentry工具的Web后端源码
+- **[ScopeSentry扫描端源码](https://github.com/Autumn-27/ScopeSentry-Scan)**  
+  ScopeSentry工具的扫描端源码
+- **[ScopeSentry前端UI源码](https://github.com/Autumn-27/ScopeSentry-UI)**  
+  ScopeSentry工具的前端UI源码
+- **[安全信息流](https://github.com/Autumn-27/SecureFlow)**  
+  展示安全社区、博客、漏洞的最新文章、信息
+  
+
+
 
 <!---
 Autumn-27/Autumn-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
